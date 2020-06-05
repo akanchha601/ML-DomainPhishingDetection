@@ -68,13 +68,15 @@ In addition, JavaScript provides dynamic functionality to web page by handling H
 Based on the output of backend methods(feature creation, decision rules and certificate extraction), JavaScript action method calls on check button to response the user input request and shows the result on screen.
 Below screenshots show the running server through web service:
 In text box, users can enter the domain name of a website to verify. By clicking on check box, it shows whether the entered domain is a legitimate or phishing on the screen.
-![example_of_legitimate_domain](/uploads/cbbcc52edc04507a37f5073ff86efa2f/example_of_legitimate_domain.png)
-![example_of_phishing_domain](/uploads/9a432848e2536ade70b30abce0478d7e/example_of_phishing_domain.png)
+
+
+![example of legitimate domain](https://user-images.githubusercontent.com/55644004/83824028-64d85280-a6a3-11ea-8879-a294a25d57b0.png)
+![example of phishing domain](https://user-images.githubusercontent.com/55644004/83824035-69047000-a6a3-11ea-970a-19427b335967.png)
 The web application also returns an error message on wrong input data. 
 It shows error messages on screen when input request is empty or input data is other than domain name of the website.
 Below are examples of error messages.
-![example_of_error_case_1_copy](/uploads/efd57de4ae89ebbb498aeb3a720abc34/example_of_error_case_1_copy.png)
-![example_of_error_case_2](/uploads/2a86e5c0483195eef76c2dc9acb68b36/example_of_error_case_2.png)
+![example of error case 1_copy](https://user-images.githubusercontent.com/55644004/83824023-6144cb80-a6a3-11ea-9eea-6cf4e3e28f65.png)
+![example of error case 2](https://user-images.githubusercontent.com/55644004/83824025-630e8f00-a6a3-11ea-8819-b30d96836b76.png)
 
 
 
