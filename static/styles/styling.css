@@ -5,7 +5,7 @@ h1 {
   font-size: 200%;
   margin-left: 12px;
 }
-/* Setting colour and text-font to "Feature-Based classification of Legitimate and Phishing sites using SSL Certificates" */
+/* Setting colour and text-font to "Get automated detection of Phishing sites" */
 h3 {
   color: gray;
   font-family: Bernard MT Condensed;
@@ -41,4 +41,3 @@ input[type=submit] {
   text-align: center;
 	
 }
- 
