@@ -48,7 +48,7 @@ Main functionalities of the framework are:
 
 The flow chart of this framework is below
 
-![Capture](/uploads/aba4e424f48d67fe4cfb65f267ded764/Capture.PNG)
+![Capture](https://user-images.githubusercontent.com/55644004/83824112-9d782c00-a6a3-11ea-8a94-1eda00b3644f.PNG)
 
                                
 The description of the flow chart is provided below:
