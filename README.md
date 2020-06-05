@@ -1,9 +1,5 @@
 # ML-DomainPhishingDetection
 
-## Project Details
-This work was completed by Akanchha Sinha as part of her Master's thesis work [12]. This project involved Akanchha as the lead student researcher, advised by Dr. Nur Zincir-Heywood (zincir@cs.dal.ca) and Dr. Raghav Sampangi (raghav@cs.dal.ca).
-
-
 ## Overview
 Due to the phishing sites appearing genuine to users, detecting them is a challenging
 task. The SSL certificate that is generally used to secure and encrypt the communication, 
