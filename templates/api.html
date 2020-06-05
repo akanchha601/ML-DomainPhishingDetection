@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<head>
+     <!-- CSS file for styling web page-->
+    <link rel="stylesheet" type="text/css" href="{{url_for('static', filename='styles/styling.css')}}"> 
+	
+</head>	
+    <!--Image source: (n.d.). Retrieved Feb 29, 2020, from https://www.google.com/imgres?imgurl=https%3A%2F%2Fmiro.medium.com%2Fmax%2F1200%2F1%2Amk1-6aYaf_Bes1E3Imhc0A.jpeg -->
+    <body background="{{url_for('static', filename='image/img.jpg')}}">
+      <section style="padding-top: 147px;">
+        <h1>*Feature-Based classification of Legitimate and Phishing sites using SSL Certificates*</h1> 
+		<h3><center>Get automated detection of Phishing sites</center></h3>
+		<!--The web page is running on web server-->
+        <form action="http://127.0.0.1:5000/" id="idform">
+            <center><input id="domain" type="text" name="domain" placeholder="Enter your site name. For example:www.google.com">
+			<input id="check" type="submit" value="Check"></center>
+			<p id=result></p> 
+        </form>
+		
+       </section>
+	<!-- Javacript files for controlling behaviour of HTML elements-->
+	<script src="static/javacript/script.js"></script>
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    	
+    </body>
+</html>
+
+	

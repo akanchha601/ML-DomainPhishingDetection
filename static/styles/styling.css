@@ -1,0 +1,44 @@
+/* Setting colour and text-font to "Feature-Based classification of Legitimate and Phishing sites using SSL Certificates" */
+h1 {
+  color: blue;
+  font-family: Algerian;
+  font-size: 200%;
+  margin-left: 12px;
+}
+/* Setting colour and text-font to "Feature-Based classification of Legitimate and Phishing sites using SSL Certificates" */
+h3 {
+  color: gray;
+  font-family: Bernard MT Condensed;
+  font-size: 170%;
+ 
+}
+/*Styling of input request*/
+input[type=text]{
+  width: 60%;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  padding: 16px
+}
+/*Styling of submit button*/
+input[type=submit] {
+  width: 10%;
+  background-color: #4CAF50;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+} 
+/*Styling of result shown on screen*/
+#result{
+  font-family: Bernard MT Condensed;
+  font-size: 150%;
+  color: black;
+  padding: 40px;
+  text-align: center;
+	
+}
+ 
